@@ -54,8 +54,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alhattami0&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhattami0&layout=compact&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alhattami0&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=21600" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhattami0&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=21600" height="170" />
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 ## 🐍 Animated Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/alhattami0/alhattami0/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/alhattami0/alhattami0/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -96,30 +96,6 @@
 
 <!-- =========================
      One-Time Setup (Snake Animation)
-     Create .github/workflows/snake.yml
-     =========================
+     Create: .github/workflows/snake.yml
+     ========================= -->
 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: alhattami0
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
--->
