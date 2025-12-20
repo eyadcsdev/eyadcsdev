@@ -1,15 +1,18 @@
 <!-- =========================
      Eyad Alhattami | alhattami0
-     Elite Animated GitHub Profile README
+     Elite Animated GitHub Profile
      ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=980&lines=Hi%2C+I%27m+Eyad+Alhattami+%F0%9F%91%8B;Software+Engineer+%7C+Backend+%7C+Full-Stack+%7C+Mobile;Laravel+%2B+Livewire+%2B+Filament+%7C+Flutter+%7C+Linux;MySQL+%26+PostgreSQL+Power+User;From+Yemen+%F0%9F%87%BE%F0%9F%87%AA;Linux+Only+%E2%9D%A4%EF%B8%8F+%7C+I+hate+Microsoft+and+Windows" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=980&lines=Hi%2C+I%27m+Eyad+Alhattami+%F0%9F%91%8B;Software+Engineer+%7C+Backend+%7C+Full-Stack+%7C+Mobile;Laravel+%2B+Livewire+%2B+Filament+%7C+Flutter+%7C+Linux;MySQL+%26+PostgreSQL+Power+User;From+Yemen+%F0%9F%87%BE%F0%9F%87%AA;Linux+Only+%E2%9D%A4%EF%B8%8F+%7C+Open+Source+Mindset" />
 </p>
 
 <p align="center">
   <a href="https://github.com/alhattami0">
     <img src="https://img.shields.io/badge/GitHub-alhattami0-0d1117?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://t.me/cs_hubs">
+    <img src="https://img.shields.io/badge/Telegram-CS%20HUBS-0d1117?style=for-the-badge&logo=telegram" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=alhattami0&label=Profile%20Views&color=2f81f7&style=for-the-badge" />
   <img src="https://img.shields.io/badge/From-Yemen-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -20,16 +23,16 @@
 
 ## ✨ About Me
 
-- 💻 Software Engineer focused on clean architecture, performance, and real-world systems  
-- 🧱 Strong with Laravel + Livewire + Filament for dashboards & admin platforms  
-- 📱 Experience with Dart & Flutter for cross-platform mobile apps  
-- 🗄️ Strong experience in MySQL and PostgreSQL  
-- 🐧 Linux-only developer (Ubuntu & Arch Linux)  
-- 🚫 I hate Microsoft and Windows — open-source first, always  
+- 💻 Software Engineer focused on **clean architecture**, **performance**, and **real-world systems**
+- 🧱 Strong with **Laravel + Livewire + Filament**
+- 📱 Experience with **Dart & Flutter**
+- 🗄️ Experience in **MySQL** and **PostgreSQL**
+- 🐧 Linux-only developer (**Ubuntu & Arch Linux**)
+- 🚫 Open-source mindset — no closed ecosystems
 
 ---
 
-## 🧩 Tech Stack (Animated)
+## 🧩 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,dart,html,css,tailwind,alpinejs,laravel,flutter,mysql,postgres,linux,git&perline=8" />
@@ -40,22 +43,22 @@
 ## 🚀 What I Build
 
 - ⚙️ Backend systems & REST APIs  
-- 🧱 Full-stack web apps and admin dashboards  
-- 📊 Data-driven systems & reporting tools  
-- 📱 Cross-platform mobile apps (Flutter)  
-- 🐧 Optimized Linux-based development environments  
+- 🧱 Full-stack dashboards & admin panels  
+- 📊 Data-driven systems & reporting  
+- 📱 Cross-platform mobile apps  
+- 🐧 Optimized Linux-based dev environments  
 
 ---
 
-## 🏆 GitHub Highlights (Live)
+## 🏆 GitHub Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alhattami0&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alhattami0&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=21600" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhattami0&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=21600" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alhattami0&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhattami0&layout=compact&hide_border=true&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
@@ -67,7 +70,7 @@
 ## 🐍 Animated Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alhattami0/alhattami0/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/alhattami0/alhattami0/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -75,7 +78,8 @@
 ## 🎬 Developer Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" />
+  <!-- subtle cat/dev vibe animation (no text mention) -->
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="420" />
 </p>
 
 ---
@@ -84,18 +88,14 @@
 
 <p align="center">
   <a href="https://github.com/alhattami0">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-2f81f7?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-2f81f7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://t.me/cs_hubs">
+    <img src="https://img.shields.io/badge/Telegram-CS%20HUBS-2f81f7?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <i>"Freedom, performance, and control — that’s why I choose Linux."</i>
 </p>
-
----
-
-<!-- =========================
-     One-Time Setup (Snake Animation)
-     Create: .github/workflows/snake.yml
-     ========================= -->
-
+5
