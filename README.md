@@ -79,7 +79,7 @@
 
 <p align="center">
   <!-- subtle cat/dev vibe animation (no text mention) -->
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="420" />
+  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNyeWl6NWZzMjRzZXQ5cXNmdGVocmIyYW12b2NodXhubXRpaDNreCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif)" width="420" />
 </p>
 
 ---
