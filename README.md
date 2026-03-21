@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alhattami0">
-    <img src="https://img.shields.io/badge/GitHub-alhattami0-0d1117?style=for-the-badge&logo=github" />
+  <a href="https://github.com/eyadcsdev">
+    <img src="https://img.shields.io/badge/GitHub-eyadcsdev-0d1117?style=for-the-badge&logo=github" />
   </a>
   <a href="https://t.me/cs_hubs">
     <img src="https://img.shields.io/badge/Telegram-CS%20HUBS-0d1117?style=for-the-badge&logo=telegram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=alhattami0&label=Profile%20Views&color=2f81f7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=eyadcsdev&label=Profile%20Views&color=2f81f7&style=for-the-badge" />
   <img src="https://img.shields.io/badge/From-Yemen-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Linux%20Only-0d1117?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
@@ -53,16 +53,16 @@
 ## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alhattami0&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eyadcsdev&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alhattami0&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alhattami0&layout=compact&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eyadcsdev&layout=compact&hide_border=true&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhattami0&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyadcsdev&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 
@@ -71,7 +71,7 @@
 ## 🐍 Animated Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alhattami0/alhattami0/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/eyadcsdev/eyadcsdev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://github.com/alhattami0">
+  <a href="https://github.com/eyadcsdev">
     <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-2f81f7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://t.me/cs_hubs">
