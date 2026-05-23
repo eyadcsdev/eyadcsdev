@@ -99,4 +99,3 @@
 <p align="center">
   <i>"Freedom, performance, and control — that’s why I choose Linux."</i>
 </p>
-5
